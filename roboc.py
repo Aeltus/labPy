@@ -76,6 +76,8 @@ while True:
         directive = "{0} ".format(directive)
         direction = str.lower(directive[0])
         vitesse = directive[1:-1]
+        if vitesse == "":
+            vitesse = 1
 
 
         mapDictionnary = data.dic.copy()
