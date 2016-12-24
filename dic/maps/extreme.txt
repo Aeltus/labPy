@@ -1,0 +1,43 @@
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+U OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOXO
+O  O                                                                                                                   O
+O  OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+O  O                                                                                                                   O
+O  O.OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+O  O                                                                                     O                             O
+O  OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.O.OOOOOOOOOOOOOOOOOOOOOOOOOOO.O
+O  O                                  O                                                                  O             O
+O  O.OOOOOOOOOOOOOOOOOOOOOOOOOOOOO.OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.OOOOOOOOOOOOO
+O  O                           O                                                                                       O
+O  O                           OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+O  O                                                                                                                   O
+O  OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.O
+O  O   .   O   .   O   .   O   .   O   .   O   .   O   .   O   .   O   .   O   .   O   .   O   .   O   .   O   .   O   O
+O  O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O
+O  O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O
+O  O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O
+O  O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O
+O  O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O
+O  O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O
+O  O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O
+O  O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O
+O  O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O
+O  O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O
+O  O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O
+O  O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O
+O  O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O
+O  O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O
+O  O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O
+O  O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O
+O  O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O   O
+O  O   O   .   O   .   O   .   O   .   O   .   O   .   O   .   O   .   O   .   O   .   O   .   O   .   O   .   O   .   O
+O  O   OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+O  O   OOO . O . O . O . O . O . O . O . O . O . O . O . O . O . O . O . O . O . O . O . O . O . O . O . O . O . O . OOO
+O  O   OO O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O OO
+O  O   O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O OOO
+O  O  O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O OOOO
+O  O.O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O OOOOO
+O  O . O . O . O . O . O . O . O . O . O . O . O . O . O . O . O . O . O . O . O . O . O . O . O . O . O . O . O   OOOOO
+O  OOOOO.OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.OOOOO
+O                                                                                                                      O
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
